@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG01634
   title: གཏམ་སྐབས་ལྔ་པ་ལུང་དང་རིག་པའི་མེ་ཏོག་
-  volume: ''
+  volume:
+    7a3b40502ed447a7b920415d06b91784:
+      image_group_id: I00KG02927
+      title: Volume 1 of gtam skabs lnga pa lung dang rig pa'i me tog
+      volume_number: 1
+      total_pages: 42
   author: ''
+ebook_metadata:
+  title: གཏམ་སྐབས་ལྔ་པ་ལུང་དང་རིག་པའི་མེ་ཏོག་
+  author: ''
+  sku: P007841
+  cover: cover.jpg
+  layers:
+  - pagination
